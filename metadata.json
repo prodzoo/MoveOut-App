@@ -1,0 +1,7 @@
+{
+  "name": "MoveOut - Moving Sale Manager",
+  "description": "A professional AI-powered tool to manage and catalog your moving sale items with one-click platform sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
